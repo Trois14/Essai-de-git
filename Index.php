@@ -1,4 +1,4 @@
-<? php
+﻿<? php
 
 // creation d'une session
 
